@@ -1,0 +1,6 @@
+com\core\hopfield\Hopfield.class
+com\core\hopfield\StepFunction.class
+com\core\hopfieldfx\MainApp.class
+com\core\hopfieldfx\FXMLController.class
+com\core\hopfield\IFunction.class
+com\core\hopfield\Matrix.class
